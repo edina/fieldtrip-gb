@@ -5,8 +5,8 @@
             "items": {
                 "item1": {
                     "div": {"class": "ui-block-a"},
-                    "a": {"class": "annotate-image-form", "url": "save-map.html"},
-                    "img": {"src": "css/images/downloadmaps.png", "alt": "Save Maps"},
+                    "a": {"class": "annotate-image-form", "href": "save-map.html"},
+                    "img": {"src": "theme/css/images/downloadmaps.png", "alt": "Save Maps"},
                     "title": "Maps"
                 }
             }
@@ -16,20 +16,20 @@
             "items":{
                 "item1": {
                     "div": {"class": "ui-block-a"},
-                    "a": {"url": "saved-annotatios.html"},
-                    "img": {"src": "css/images/documents.png", "alt": "View Records"},
+                    "a": {"href": "saved-records.html"},
+                    "img": {"src": "theme/css/images/documents.png", "alt": "View Records"},
                     "title": "Records"
                 },
                 "item2": {
                     "div": {"class": "ui-block-b"},
-                    "a": {"class": "download-upload-records", "url": "#"},
-                    "img": {"src": "css/images/uploadrecords-main.png", "alt": "Upload Records"},
+                    "a": {"class": "download-upload-records", "href": "#"},
+                    "img": {"src": "theme/css/images/uploadrecords-main.png", "alt": "Upload Records"},
                     "title": "Upload Records"
                 },
                 "item3": {
                     "div": {"class": "ui-block-c"},
-                    "a": {"class": "annotate-text-form", "url": "#"},
-                    "img": {"src": "css/images/download-editors.png", "alt": "Download Editors"},
+                    "a": {"class": "annotate-text-form", "href": "#"},
+                    "img": {"src": "theme/css/images/download-editors.png", "alt": "Download Editors"},
                     "title": "Download Forms"
                 }
             }
