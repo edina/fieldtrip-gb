@@ -1,0 +1,14 @@
+{
+    "body": {
+        "section1": {
+            "items": {
+                "item2": {
+                    "div": {"class": "ui-block-b"},
+                    "a": {"href": "saved-maps.html"},
+                    "img": {"src": "css/images/saved.png", "alt": "Save Map"},
+                    "title": "Saved"
+                }
+            }
+        }
+    }
+}
