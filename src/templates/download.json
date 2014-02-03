@@ -21,13 +21,13 @@
                     "title": "Records"
                 },
                 "item2": {
-                    "div": {"class": "ui-block-b"},
+                    "div": {"class": "ui-block-b", "style": "display: none;"},
                     "a": {"class": "download-upload-records", "href": "#"},
                     "img": {"src": "theme/css/images/uploadrecords-main.png", "alt": "Upload Records"},
                     "title": "Upload Records"
                 },
                 "item3": {
-                    "div": {"class": "ui-block-c"},
+                    "div": {"class": "ui-block-c", "style": "display: none;"},
                     "a": {"class": "annotate-text-form", "href": "#"},
                     "img": {"src": "theme/css/images/download-editors.png", "alt": "Download Editors"},
                     "title": "Download Forms"
