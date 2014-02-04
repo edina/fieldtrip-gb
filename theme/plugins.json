@@ -10,6 +10,6 @@
     ],
     "fieldtrip": {
         "offline-maps": "",
-        "sync": ""
+        "pcapi-sync": ""
     }
 }
