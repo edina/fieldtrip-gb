@@ -9,6 +9,16 @@
                     "title": "Saved"
                 }
             }
+        },
+        "section3": {
+            "items": {
+                "item2": {
+                    "div": {"class": "ui-block-b"},
+                    "a": {"href": "#"},
+                    "img": {"src": "theme/css/images/login-large.png", "alt": "Login"},
+                    "title": "Login"
+                }
+            }
         }
     }
 }
