@@ -9,6 +9,7 @@
         "cordova-plugin-console.git"
     ],
     "fieldtrip": {
-        "offline-maps": ""
+        "offline-maps": "",
+        "sync": ""
     }
 }
