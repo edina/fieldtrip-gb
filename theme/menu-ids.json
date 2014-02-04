@@ -1,4 +1,4 @@
 {
-    "map": ["map-page", "saved-maps"],
+    "map": ["map-page", "saved-maps-page"],
     "download": ["download-page", "save-map", "saved-records-page"]
 }

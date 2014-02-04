@@ -23,3 +23,35 @@
     background: url("../css/images/download.png") 50% 50% no-repeat;
     background-size: 30px 30px;
 }
+
+/********* offline maps *********/
+
+#saved-maps-page .ui-listview a{
+    text-decoration: none;
+}
+
+#saved-maps-page .ui-listview li{
+    border: none;
+}
+
+#saved-maps-page h2{
+    background-color: white;
+    height: 0px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+#saved-maps-page .map-zoom-buttons{
+    position: absolute;
+    top: 50%;
+}
+
+#saved-maps-map {
+    position: absolute;
+    top: 48%;
+    height: 50%;
+    width: 96%;
+    left: 2.5%;
+    border: #2c3f62 solid 1px;
+}
+
