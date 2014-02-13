@@ -1,12 +1,13 @@
 {
     "cordova": [
-        "cordova-plugin-device.git",
-        "cordova-plugin-geolocation.git",
         "cordova-plugin-camera.git",
-        "cordova-plugin-media-capture.git",
-        "cordova-plugin-media.git",
-        "cordova-plugin-file.git",
         "cordova-plugin-console.git"
+        "cordova-plugin-device.git",
+        "cordova-plugin-file.git",
+        "cordova-plugin-file-transfer.git",
+        "cordova-plugin-geolocation.git",
+        "cordova-plugin-media.git",
+        "cordova-plugin-media-capture.git",
     ],
     "fieldtrip": {
         "offline-maps": "",
