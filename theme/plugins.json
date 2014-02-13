@@ -10,7 +10,7 @@
         "cordova-plugin-media-capture.git"
     ],
     "fieldtrip": {
-        "offline-maps": "git@github.com:edina/fieldtrip-offline-maps.git",
+        "offline-maps": "0.0.1",
         "sync": "git@github.com:edina/fieldtrip-sync.git"
     }
 }
