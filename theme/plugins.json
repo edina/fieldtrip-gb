@@ -6,6 +6,7 @@
         "cordova-plugin-file.git",
         "cordova-plugin-file-transfer.git",
         "cordova-plugin-geolocation.git",
+        "cordova-plugin-inappbrowser.git",
         "cordova-plugin-media.git",
         "cordova-plugin-media-capture.git"
     ],
