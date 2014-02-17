@@ -1,4 +1,5 @@
 {
-    "map": ["map-page", "saved-maps-page"],
-    "download": ["download-page", "save-map", "saved-records-page"]
+    "download": ["download-page", "save-map", "saved-records-page"],
+    "capture": ["annotate-gps-page", "capture-page", "annotate-page"],
+    "map": ["gpscapture-page", "map-page", "saved-maps-page"]
 }
