@@ -12,7 +12,7 @@
     ],
     "fieldtrip": {
         "gps-tracking": "git@github.com:edina/fieldtrip-gps-tracking.git",
-        "offline-maps": "0.0.1",
+        "offline-maps": "git@github.com:edina/fieldtrip-offline-maps.git",
         "sync": "git@github.com:edina/fieldtrip-sync.git"
     }
 }
