@@ -23,3 +23,32 @@
     background: url("../css/images/download.png") 50% 50% no-repeat;
     background-size: 30px 30px;
 }
+
+/********* map searching *********/
+
+#map-search-popup .ui-btn-up-a {
+    background: white;
+    border: none;
+    text-shadow: none;
+}
+
+#map-search-popup .ui-btn-up-a:visited,
+#map-search-popup .ui-btn-up-a a.ui-link-inherit {
+    color: #2C3F62;
+}
+
+#map-search-spinner{
+    position: relative;
+    float: right;
+    top: -3.4em;
+    right: 0.3em;
+}
+
+#map-search-spinner img{
+    height: 2.5em;
+    width: 2.5em;
+}
+
+#map-search-popup ui{
+    max-height: 200;
+}
