@@ -1,13 +1,3 @@
 {
-    "title": "Fieldtrip GB",
-    "buttons" : {
-        "user-locate": {
-            "platforms": ["desktop"],
-            "class": "user-locate",
-            "data-role": "button",
-            "data-inline": "true",
-            "data-transition": "none",
-            "data-iconpos": "notext"
-        }
-    }
+    "title": "Fieldtrip GB"
 }
