@@ -5,7 +5,10 @@
                 "item4": {
                     "div": {"class": "ui-block-d"},
                     "a": {"class": "gps-track-start", "href": "annotate-gps.html"},
-                    "img": {"src": "css/images/gps.png", "alt": "Capture GPS Track"},
+                    "img": {
+                        "src": "plugins/gps-tracking/css/images/gps.png",
+                        "alt": "Capture GPS Track"
+                    },
                     "title": "GPS Track"
                 }
             }
