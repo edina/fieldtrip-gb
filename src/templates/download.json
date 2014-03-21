@@ -17,19 +17,40 @@
                 "item1": {
                     "div": {"class": "ui-block-a"},
                     "a": {"href": "saved-records.html"},
-                    "img": {"src": "theme/css/images/documents.png", "alt": "View Records"},
+                    "img": {
+                        "src": "theme/css/images/documents.png",
+                        "alt": "View Records"
+                    },
                     "title": "Records"
                 },
                 "item2": {
-                    "div": {"class": "ui-block-b", "style": "display: none;"},
-                    "a": {"class": "download-upload-records", "href": "#"},
-                    "img": {"src": "theme/css/images/uploadrecords-main.png", "alt": "Upload Records"},
+                    "div": {
+                        "class": "ui-block-b sync-upload-button",
+                        "style": "display: none;"
+                    },
+                    "a": {
+                        "class": "download-upload-records",
+                        "href": "#"
+                    },
+                    "img": {
+                        "src": "plugins/sync/css/images/uploadrecords-main.png",
+                        "alt": "Upload Records"
+                    },
                     "title": "Upload Records"
                 },
                 "item3": {
-                    "div": {"class": "ui-block-c", "style": "display: none;"},
-                    "a": {"class": "annotate-text-form", "href": "#"},
-                    "img": {"src": "theme/css/images/download-editors.png", "alt": "Download Editors"},
+                    "div": {
+                        "class": "ui-block-c sync-download-button",
+                        "style": "display: none;"
+                    },
+                    "a": {
+                        "class": "annotate-text-form",
+                        "href": "#"
+                    },
+                    "img": {
+                        "src": "plugins/sync/css/images/download-editors.png",
+                        "alt": "Download Editors"
+                    },
                     "title": "Download Forms"
                 }
             }

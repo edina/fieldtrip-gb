@@ -26,7 +26,10 @@
         "section3": {
             "items": {
                 "item2": {
-                    "div": {"class": "ui-block-b", "id": "home-content-login"},
+                    "div": {
+                        "class": "ui-block-b sync-login",
+                        "id": "home-content-login"
+                    },
                     "a": {"href": "#"},
                     "img": {
                         "src": "plugins/sync/css/images/login-large.png",
@@ -37,12 +40,12 @@
                 "item3": {
                     "div": {
                         "id": "home-content-upload",
-                        "class": "ui-block-c",
+                        "class": "ui-block-c sync-upload-button",
                         "style": "display:none;"
                     },
                     "a": {"href": "#"},
                     "img": {
-                        "src": "theme/css/images/uploadrecords-main.png",
+                        "src": "plugins/sync/css/images/uploadrecords-main.png",
                         "alt": "Upload Records"
                     },
                     "title": "Upload Records"
@@ -50,7 +53,7 @@
                 "item4": {
                     "div": {
                         "id": "home-content-sync",
-                        "class": "ui-block-d",
+                        "class": "ui-block-d sync-button",
                         "style": "display:none;"
                     },
                     "a": {"href": "#"},
