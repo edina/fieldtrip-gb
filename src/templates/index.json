@@ -24,8 +24,27 @@
             }
         },
         "section3": {
+            "title": "Download and Sync",
             "items": {
+                "item1": {
+                    "div": {"class": "ui-block-a"},
+                    "a": {"href": "save-map.html"},
+                    "img": {
+                        "src": "theme/css/images/downloadmaps.png",
+                        "alt": "Save Maps"
+                    },
+                    "title": "Maps"
+                },
                 "item2": {
+                    "div": {"class": "ui-block-a"},
+                    "a": {"href": "saved-records.html"},
+                    "img": {
+                        "src": "css/images/documents.png",
+                        "alt": "Saved Records"
+                    },
+                    "title": "Records"
+                },
+                "item3": {
                     "div": {
                         "class": "ui-block-b sync-login",
                         "id": "home-content-login"
@@ -37,7 +56,7 @@
                     },
                     "title": "Login"
                 },
-                "item3": {
+                "item4": {
                     "div": {
                         "id": "home-content-upload",
                         "class": "ui-block-c sync-upload-button",
@@ -50,7 +69,7 @@
                     },
                     "title": "Upload Records"
                 },
-                "item4": {
+                "item5": {
                     "div": {
                         "id": "home-content-sync",
                         "class": "ui-block-d sync-button",

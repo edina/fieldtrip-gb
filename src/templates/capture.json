@@ -12,6 +12,10 @@
                     "title": "GPS Track"
                 }
             }
+        },
+        "section2": {
+            "title": "Custom Forms",
+            "items": {}
         }
     }
 }
