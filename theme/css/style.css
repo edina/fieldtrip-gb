@@ -24,6 +24,7 @@
     background-size: 30px 30px;
 }
 
+
 /********* map searching *********/
 
 #map-search-popup .ui-btn-up-a {
@@ -51,4 +52,42 @@
 
 #map-search-popup ui{
     max-height: 200;
+}
+
+
+/********* Help *************/
+
+#help-div .ui-btn{
+    top: 2px;
+    width: 6em;
+    height: 80%;
+}
+
+.help-block{
+    float: right;
+    margin-right: 30px !important;
+}
+
+.help-content{
+    padding: 10px;
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
+}
+
+.help-content img{
+    max-width: 100%;
+    padding: 5px;
+}
+
+.help-content img:active{
+    box-shadow: none !important;
+}
+
+.help-content figcaption{
+    font-style: bolder;
+    font-weight: bold;
+}
+
+.help-content figure{
+    text-align: center;
 }

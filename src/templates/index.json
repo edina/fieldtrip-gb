@@ -7,6 +7,15 @@
                     "a": {"href": "saved-maps.html"},
                     "img": {"src": "css/images/saved.png", "alt": "Save Map"},
                     "title": "Saved"
+                },
+                "item3": {
+                    "div": {"class": "ui-block-c help-block"},
+                    "a": {"href": "theme/help/contents.html"},
+                    "img": {
+                        "src": "css/images/help.png",
+                        "alt": "Help Section"
+                    },
+                    "title": "Help"
                 }
             }
         },
