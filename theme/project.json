@@ -1,6 +1,6 @@
 {
     "versions":{
-        "core": "0.2.1",
+        "core": "master",
         "project": "1.4.0.0"
     },
     "plugins":{
