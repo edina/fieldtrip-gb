@@ -1,8 +1,7 @@
 {
     "versions":{
         "core": "master",
-        "project": "master",
-        "app": "1.4.0.0"
+        "project": "1.4.0.1"
     },
     "plugins":{
         "cordova": [
@@ -20,7 +19,7 @@
             "gps-tracking": "0.0.1",
             "map-search": "0.0.1",
             "offline-maps": "0.0.1",
-            "sync": "git@github.com:edina/fieldtrip-sync.git"
+            "sync": "0.0.1"
         }
     }
 }
