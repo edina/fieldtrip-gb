@@ -91,3 +91,8 @@
 .help-content figure{
     text-align: center;
 }
+
+/********* Records Page *************/
+#saved-records-page-header .ui-block-c{
+    width: 8em;
+}
