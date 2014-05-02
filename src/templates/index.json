@@ -45,7 +45,7 @@
                     "title": "Maps"
                 },
                 "item2": {
-                    "div": {"class": "ui-block-a"},
+                    "div": {"class": "ui-block-b"},
                     "a": {"href": "saved-records.html"},
                     "img": {
                         "src": "css/images/documents.png",
@@ -55,7 +55,7 @@
                 },
                 "item3": {
                     "div": {
-                        "class": "ui-block-b sync-login",
+                        "class": "ui-block-c sync-login",
                         "id": "home-content-login"
                     },
                     "a": {"href": "#"},
@@ -68,7 +68,7 @@
                 "item4": {
                     "div": {
                         "id": "home-content-upload",
-                        "class": "ui-block-c sync-upload-button",
+                        "class": "ui-block-d sync-upload-button",
                         "style": "display:none;"
                     },
                     "a": {"href": "#"},
@@ -81,7 +81,7 @@
                 "item5": {
                     "div": {
                         "id": "home-content-sync",
-                        "class": "ui-block-d sync-button",
+                        "class": "ui-block-e sync-button",
                         "style": "display:none;"
                     },
                     "a": {"href": "#"},
