@@ -96,3 +96,8 @@
 #saved-records-page-header .ui-block-c{
     width: 8em;
 }
+
+#saved-records-page-header,
+#saved-records-page-header h2{
+    background: #2c3f62;
+}
