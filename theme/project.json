@@ -11,6 +11,7 @@
             "org.apache.cordova.dialogs@0.2.7",
             "org.apache.cordova.file@1.0.1",
             "org.apache.cordova.file-transfer@0.4.2",
+            "org.apache.cordova.geolocation@0.3.7",
             "org.apache.cordova.inappbrowser@0.3.3",
             "org.apache.cordova.media@0.2.9",
             "org.apache.cordova.media-capture@0.2.8",
