@@ -25,7 +25,7 @@
                 },
                 "item2": {
                     "div": {
-                        "class": "ui-block-b sync-upload-button",
+                        "class": "ui-block-b sync-upload-button sync-show",
                         "style": "display: none;"
                     },
                     "a": {
@@ -40,7 +40,7 @@
                 },
                 "item3": {
                     "div": {
-                        "class": "ui-block-c sync-download-button",
+                        "class": "ui-block-c sync-download-button sync-show",
                         "style": "display: none;"
                     },
                     "a": {
