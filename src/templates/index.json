@@ -55,7 +55,7 @@
                 },
                 "item3": {
                     "div": {
-                        "class": "ui-block-c sync-login sync-show",
+                        "class": "ui-block-c sync-login",
                         "id": "home-content-login"
                     },
                     "a": {"href": "#"},
