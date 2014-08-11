@@ -19,9 +19,8 @@
     color: white;
 }
 
-.download-button .ui-icon {
+.download-button:after{
     background: url("../css/images/download.png") 50% 50% no-repeat;
-    background-size: 30px 30px;
 }
 
 
