@@ -96,7 +96,9 @@
     width: 8em;
 }
 
-#saved-records-page-header,
+#settings-page h2,
+#annotate-preview-page h2,
 #saved-records-page-header h2{
     background: #2c3f62;
+    color: white;
 }
