@@ -19,10 +19,10 @@
             "org.apache.cordova.device-orientation@0.3.8"
         ],
         "fieldtrip": {
-            "gps-tracking": "git@github.com:edina/fieldtrip-gps-tracking.git",
-            "map-search": "https://github.com/edina/fieldtrip-map-search",
-            "offline-maps": "https://github.com/edina/fieldtrip-offline-maps",
-            "sync": "git@github.com:edina/fieldtrip-sync.git"
+            "gps-tracking": "0.3.0",
+            "map-search": "0.1.0",
+            "offline-maps": "0.1.0",
+            "sync": "0.3.0"
         }
     }
 }
