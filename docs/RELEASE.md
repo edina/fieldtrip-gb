@@ -5,7 +5,7 @@
 #### Install Official Release
 
 ```
-install_project:project_branch=<x.x.x>
+fab install_project:project_branch=<x.x.x>
 ```
 
 #### Release BETA Version
@@ -19,3 +19,5 @@ fab release_android
 ```
 fab release_android:beta=False
 ```
+
+You will be prompted for a keystore passphrase.
