@@ -5,6 +5,7 @@
 #### Install Official Release
 
 ```
+fab clean
 fab install_project:project_branch=<x.x.x>
 ```
 
