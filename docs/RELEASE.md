@@ -9,6 +9,8 @@ fab clean
 fab install_project:project_branch=<x.x.x>
 ```
 
+Note: project_branch will normally be a tag.  You will prevented from releasing a LIVE version if you use the master branch.
+
 #### Release BETA Version
 
 ```
