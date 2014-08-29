@@ -16,7 +16,8 @@
             "org.apache.cordova.media@0.2.11",
             "org.apache.cordova.media-capture@0.3.1",
             "org.apache.cordova.plugin.softkeyboard@1.0.3",
-            "org.apache.cordova.device-orientation@0.3.8"
+            "org.apache.cordova.device-orientation@0.3.8",
+            "https://github.com/edina/cordova-plugin-activitieslist"
         ],
         "fieldtrip": {
             "gps-tracking": "git@github.com:edina/fieldtrip-gps-tracking.git#0.3.0",
