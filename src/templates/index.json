@@ -80,16 +80,18 @@
                 },
                 "item5": {
                     "div": {
-                        "id": "home-content-sync",
-                        "class": "ui-block-e sync-button sync-show",
-                        "style": "display:none;"
+                        "class": "ui-block-e sync-download-button sync-show",
+                        "style": "display: none;"
                     },
-                    "a": {"href": "#"},
+                    "a": {
+                        "class": "home-content-download-forms",
+                        "href": "#"
+                    },
                     "img": {
-                        "src": "plugins/sync/css/images/sync-large.png",
-                        "alt": "Sync Records and Editors"
+                        "src": "plugins/sync/css/images/download-editors.png",
+                        "alt": "Download Editors"
                     },
-                    "title": "Sync"
+                    "title": "Download Forms"
                 }
             }
         }
