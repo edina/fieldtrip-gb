@@ -1,7 +1,7 @@
 {
     "versions":{
         "core": "ftgb-1.4",
-        "project": "1.4.0.13"
+        "project": "1.4.1"
     },
     "plugins":{
         "cordova": [
@@ -21,10 +21,10 @@
             "https://github.com/edina/cordova-plugin-ios-background-location#0.1"
         ],
         "fieldtrip": {
-            "gps-tracking": "git@github.com:edina/fieldtrip-gps-tracking.git#ftgb-1.4",
-            "map-search": "git@github.com:edina/fieldtrip-map-search.git#ftgb-1.4",
-            "offline-maps": "git@github.com:edina/fieldtrip-offline-maps.git#ftgb-1.4",
-            "sync": "git@github.com:edina/fieldtrip-sync.git#ftgb-1.4"
+            "gps-tracking": "0.4.0",
+            "map-search": "0.2.0",
+            "offline-maps": "0.2.0",
+            "sync": "0.4.0"
         }
     }
 }
