@@ -11,7 +11,7 @@
             "org.apache.cordova.dialogs@0.2.8",
             "org.apache.cordova.file@1.2.0",
             "org.apache.cordova.file-transfer@0.4.4",
-            "org.apache.cordova.geolocation@0.3.8",
+            "org.apache.cordova.geolocation@0.3.10",
             "org.apache.cordova.inappbrowser@0.5.0",
             "org.apache.cordova.media@0.2.11",
             "https://github.com/edina/spatial-memories-cordova-plugin-media-capture#r0.3.3",
