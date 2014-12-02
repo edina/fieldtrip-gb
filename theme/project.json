@@ -1,7 +1,7 @@
 {
     "versions":{
         "core": "ftgb-1.4",
-        "project": "1.4.5.2"
+        "project": "1.4.5.3"
     },
     "plugins":{
         "cordova": [
@@ -23,7 +23,7 @@
         "fieldtrip": {
             "gps-tracking": "0.4.0",
             "map-search": "0.2.1",
-            "offline-maps": "0.2.0",
+            "offline-maps": "git@github.com:edina/fieldtrip-offline-maps.git#ftgb-1.4",
             "sync": "git@github.com:edina/fieldtrip-sync.git#ftgb-1.4"
         }
     }
