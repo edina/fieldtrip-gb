@@ -23,8 +23,8 @@
         "fieldtrip": {
             "gps-tracking": "0.4.0",
             "map-search": "0.2.1",
-            "offline-maps": "git@github.com:edina/fieldtrip-offline-maps.git#0.2.1-ftgb-1.4",
-            "sync": "git@github.com:edina/fieldtrip-sync.git#0.4.2-ftgb-1.4"
+            "offline-maps": "0.2.1-ftgb-1.4",
+            "sync": "0.4.2-ftgb-1.4"
         }
     }
 }
