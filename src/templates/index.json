@@ -95,5 +95,17 @@
                 }
             }
         }
+    },
+    "popups": {
+        "popup2":{
+            "data": {
+                "text": "Fieldtrip GB is designed for purpose of field data capture. We DO NOT recommend Fieldtrip GB app for navigation or way finding due to possible inaccuracies and limited battery life."
+            }
+        },
+        "popup3":{
+            "data": {
+                "text": "Fieldtrip GB is designed for purpose of field data capture. We DO NOT recommend Fieldtrip GB app for navigation or way finding due to possible inaccuracies and limited battery life."
+            }
+        }
     }
 }
