@@ -1,7 +1,7 @@
 {
     "versions":{
         "core": "ftgb-1.4",
-        "project": "1.4.6"
+        "project": "1.4.7"
     },
     "plugins":{
         "cordova": [
@@ -24,7 +24,7 @@
             "gps-tracking": "0.4.0",
             "map-search": "0.2.1",
             "offline-maps": "0.2.1-ftgb-1.4",
-            "sync": "0.4.2-ftgb-1.4"
+            "sync": "0.4.3-ftgb-1.4"
         }
     }
 }
