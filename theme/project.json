@@ -1,6 +1,6 @@
 {
     "versions":{
-        "core": "master",
+        "core": "ftgb-1.5",
         "project": "1.5.0.0"
     },
     "plugins":{
