@@ -5,7 +5,7 @@
     },
     "plugins":{
         "cordova": [
-            "org.apache.cordova.camera@0.3.4",
+            "org.apache.cordova.camera@0.3.5",
             "org.apache.cordova.console@0.2.12",
             "org.apache.cordova.device@0.2.13",
             "org.apache.cordova.device-orientation@0.3.10",
@@ -22,10 +22,10 @@
             "https://github.com/edina/cordova-plugin-ios-background-location#0.1"
         ],
         "fieldtrip": {
-            "gps-tracking": "git@github.com:edina/fieldtrip-gps-tracking.git",
-            "map-search": "git@github.com:edina/fieldtrip-map-search.git",
-            "offline-maps": "git@github.com:edina/fieldtrip-offline-maps.git",
-            "sync": "git@github.com:edina/fieldtrip-sync.git"
+            "gps-tracking": "git@github.com:edina/fieldtrip-gps-tracking.git#0.6.0",
+            "map-search": "git@github.com:edina/fieldtrip-map-search.git#0.4.0",
+            "offline-maps": "git@github.com:edina/fieldtrip-offline-maps.git#0.3.0",
+            "sync": "git@github.com:edina/fieldtrip-sync.git#0.6.0"
         }
     }
 }
