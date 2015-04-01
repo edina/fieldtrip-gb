@@ -1,7 +1,7 @@
 {
     "versions":{
         "core": "ftgb-1.5",
-        "project": "1.5.0.1"
+        "project": "1.5.0.2"
     },
     "plugins":{
         "cordova": [
