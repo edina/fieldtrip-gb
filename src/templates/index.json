@@ -33,7 +33,9 @@
             }
         },
         "section3": {
-            "title": "Download and Sync",
+            "title": {
+                "en": "Download and Sync"
+            },
             "items": {
                 "item1": {
                     "div": {"class": "ui-block-a"},
