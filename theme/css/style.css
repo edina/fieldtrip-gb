@@ -115,6 +115,12 @@
     background: #2c3f62;
 }
 
+/********* Footer *************/
+.map-button:after{
+    background: url("images/map.png") 50% 50% no-repeat;
+}
+
+
 /****Hack for the bug with the menu****/
 /* Button down */
 #home-page .ui-page-theme-a .ui-btn:active,
