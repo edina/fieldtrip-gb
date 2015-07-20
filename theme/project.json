@@ -1,7 +1,7 @@
 {
     "versions":{
         "core": "master",
-        "project": "1.6.0.0"
+        "project": "1.6.0.1"
     },
     "plugins":{
         "cordova": [
@@ -17,7 +17,7 @@
             "org.apache.cordova.media@0.2.16",
             "org.apache.cordova.network-information@0.2.15",
             "org.apache.cordova.plugin.softkeyboard@1.0.3",
-            "com.cowbell.cordova.geofence@0.4.0",
+            "https://github.com/edina/cordova-plugin-geofence#0.3.3-edina",
             "https://github.com/edina/spatial-memories-cordova-plugin-media-capture#edina-0.3.2.1",
             "https://github.com/edina/cordova-plugin-activitieslist#0.0.1",
             "https://github.com/edina/cordova-plugin-ios-background-location#0.1"
